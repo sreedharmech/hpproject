@@ -1,2 +1,3 @@
 this is first line
-first command 
+first command
+this line is changed in stage area 
